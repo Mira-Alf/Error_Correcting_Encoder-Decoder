@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Error Correcting Encoder-Decoder/task/build/
+/Error Correcting Encoder-Decoder/task/out/
+/Error Correcting Encoder-Decoder/task/out/production/classes/
+/Problems/Convert to bytes/out/
+/Problems/Convert to bytes/out/production/classes/
+/Problems/Count words/out/
+/Problems/Count words/out/production/classes/
+/Problems/Find the seed/out/
+/Problems/Find the seed/out/production/classes/
+/Problems/Gaussian random numbers/out/
+/Problems/Gaussian random numbers/out/production/classes/
+/Problems/Generate random numbers/out/
+/Problems/Generate random numbers/out/production/classes/
+/Problems/Reverse input text/out/
+/Problems/Reverse input text/out/production/classes/
